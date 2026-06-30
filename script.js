@@ -20,7 +20,7 @@ function checkPassFail(marks) {
 }
 console.log("Result: " + checkPassFail(72));
 
-//3.Food Bill Calculator
+//3.Food Bill 
 
 //Burger price: ₹180
 //Quantity: 3
